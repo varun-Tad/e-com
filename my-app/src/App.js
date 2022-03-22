@@ -25,7 +25,7 @@ function App() {
             target="_blank"
             rel="noreferrer"
           >
-            API Documentation
+            API Documentations
           </a>
           <a
             href="https://github.com/neogcamp/mockBee"
